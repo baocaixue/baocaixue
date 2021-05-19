@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @baocaixue
+- 👀 I’m interested in insterestring tools on arch.
+- 🌱 I’m currently learning dwm and st by suckless.
+- 💞️ I’m looking to collaborate on no one.
+- 📫 How to reach me: baocaixue123@163.com.
